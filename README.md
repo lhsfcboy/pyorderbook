@@ -32,5 +32,5 @@ IFD订单, StopLoss订单, 应由发单模块负责.
 ## Exchange
 交易所.
 
-## FXrate模
+## FXrate
 用于实时返回可以成交的汇率.
