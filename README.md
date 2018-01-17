@@ -16,6 +16,8 @@
 
 TODO: 添加更多的限制条件, 例如, 最小价格升降档位, 涨跌幅, 
 
+TODO: 增加更多的状态, 例如, opening, continuous_auction, closing,
+
 ## BoardSnapshot
 
 某一时刻的orderbook的快照, 包含了各个价位上的订单.
